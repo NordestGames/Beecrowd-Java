@@ -17,6 +17,7 @@ public class Main1009 {
 
         System.out.printf("TOTAL = R$ %.2f\n",totalReceber);
 
+        
         leitor.close();
     }
 }

@@ -26,14 +26,14 @@ Cada problema exige que o desenvolvedor leia dados de entrada, processe e escrev
 - Os nomes dos arquivos seguem o padrão do problema para facilitar identificação.
 
 Exemplo:
-
+```
 Beecrowd-Java/
 │── 1000/
 │   └── Main1000.java
 │── 1001/
 │   └── Main1001.java
 │── README.md
-
+```
 ---
 
 ## 🚀 Como executar uma solução localmente
